@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700"/>
 </div>
   <h1>
-  hey there, follow the white rabbit
+   hey there, follow the white rabbit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </h1> 
 
