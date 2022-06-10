@@ -1,10 +1,10 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="500"/>
 </div>
 <h1>
   <div id="header" align="center">
-  hey there
+  follow the  white rabbit
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30"/>
 </h1>
     
