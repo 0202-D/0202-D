@@ -1,15 +1,16 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700"/>
-</div>
-  <h1>
-   hey there, follow the white rabbit
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-</h1> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitriy</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a junior java developer</h3>
 
----
+[![codewars](https://www.codewars.com/users/peps0202/badges/small)](https://www.codewars.com/users/peps0202) 
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0202-D&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0202-D&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0202-D&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">I am actively involved in an open source project - <a href="https://github.com/fmh-charity/fmh-backend" target="_blank">https://github.com/fmh-charity/fmh-backend</a> 
+  <h3 align="center">Examples of my projects : 
+    <h3 align="center"> https://github.com/0202-D/NetologyJavaDiplom1
+      <h3 align="center">https://github.com/0202-D/NasaRead.git
+        <h3 align="center">https://github.com/0202-D/OnlineChat.git
+          <h3 align="center">https://github.com/0202-D/MoneyTransferService
+
