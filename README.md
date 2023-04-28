@@ -7,7 +7,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0202-D&theme=solarized_dark)
 
-<h3 align="center">I am actively involved in an open source project - <a href="https://github.com/fmh-charity/fmh-backend" target="_blank">https://github.com/fmh-charity/fmh-backend</a> 
+<h3 align="center">I am actively involved in this project - <a href="https://github.com/fmh-charity/fmh-backend" target="_blank">https://github.com/fmh-charity/fmh-backend</a> 
   <h3 align="center">Examples of my projects : 
     <h3 align="center"> https://github.com/0202-D/NetologyJavaDiplom1
       <h3 align="center">https://github.com/0202-D/NasaRead.git
