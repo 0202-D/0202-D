@@ -4,7 +4,8 @@
 <h3 align="center">I am a junior java developer</h3>
 
 [![codewars](https://www.codewars.com/users/peps0202/badges/small)](https://www.codewars.com/users/peps0202) 
-[![leetcode](https://leetcode.com/0202-D//badges/small)](https://leetcode.com/0202-D/)
+<br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=0202-D&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0202-D&theme=solarized_dark)
 
