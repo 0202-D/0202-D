@@ -13,9 +13,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
 </div>
-<br>
+
 [![codewars](https://www.codewars.com/users/peps0202/badges/small)](https://www.codewars.com/users/peps0202) 
 <br>
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=0202-D&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
