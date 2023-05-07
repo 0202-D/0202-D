@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a junior java developer</h3>
-<h3 align="center">Skills</h3>
+<h3 align="center">Skills :</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -14,9 +14,13 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
+<br>
+<h3 align="center">My Codewars profile :</h3>
 
 [![codewars](https://www.codewars.com/users/peps0202/badges/small)](https://www.codewars.com/users/peps0202) 
 <br>
+<h3 align="center">My Leetcode profile :</h3>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=0202-D&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0202-D&theme=solarized_dark)
