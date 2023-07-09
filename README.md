@@ -27,13 +27,15 @@
 
 <h3 align="center">I am actively involved in this project - <a href="https://github.com/fmh-charity/fmh-backend" target="_blank">https://github.com/fmh-charity/fmh-backend</a> 
   <h3 align="center">Examples of my projects : 
+       <h3 align="center">Дипломный проект Облачное хранилище :</h3>
+            <h3 align="center">https://github.com/0202-D/cloud_api
+                 <h3 align="center">Многопользовательский онлайн чат :</h3>
+                 <h3 align="center">https://github.com/0202-D/OnlineChat.git
+           <h3 align="center">Сервис по переводу денег :</h3>
+                    <h3 align="center">https://github.com/0202-D/MoneyTransferService
+                          <h3 align="center">Тестовое "Социальная сеть" для Effective-mobile :</h3>
+<h3 align="center">https://github.com/0202-D/social_network
+    <h3 align="center">Другие проекты :</h3>
     <h3 align="center"> https://github.com/0202-D/NetologyJavaDiplom1
       <h3 align="center">https://github.com/0202-D/NasaRead.git
-        <h3 align="center">Многопользовательский онлайн чат :</h3>
-        <h3 align="center">https://github.com/0202-D/OnlineChat.git
-           <h3 align="center">Сервис по переводу денег :</h3>
-          <h3 align="center">https://github.com/0202-D/MoneyTransferService
-             <h3 align="center">Дипломный проект Облачное хранилище :</h3>
-            <h3 align="center">https://github.com/0202-D/cloud_api
-              <h3 align="center">Тестовое "Социальная сеть" для Effective-mobile :</h3>
-<h3 align="center">https://github.com/0202-D/social_network
+          
