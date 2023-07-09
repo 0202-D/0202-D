@@ -35,4 +35,5 @@
           <h3 align="center">https://github.com/0202-D/MoneyTransferService
              <h3 align="center">Дипломный проект Облачное хранилище :</h3>
             <h3 align="center">https://github.com/0202-D/cloud_api
-
+              <h3 align="center">Тестовое "Социальная сеть" для Effective-mobile :</h3>
+<h3 align="center">https://github.com/0202-D/social_network
