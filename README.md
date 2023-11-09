@@ -29,6 +29,8 @@
   <h3 align="center">Examples of my projects : 
        <h3 align="center">Дипломный проект Облачное хранилище :</h3>
             <h3 align="center">https://github.com/0202-D/cloud_api
+               <h3 align="center">Java интенсив Y_LAB :</h3>
+               <h3 align="center">https://github.com/0202-D/Ylab_University
               <h3 align="center">Планировщик дел на микросервисной архитектуре :</h3>
               <h3 align="center">https://github.com/0202-D/planner-microservices
                  <h3 align="center">Многопользовательский онлайн чат :</h3>
