@@ -19,9 +19,6 @@
 
 [![codewars](https://www.codewars.com/users/peps0202/badges/small)](https://www.codewars.com/users/peps0202) 
 <br>
-<h3 align="center">My Leetcode profile :</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0202-D&theme=solarized_dark)
 
 <h3 align="center">I am actively involved in this project - <a href="https://github.com/fmh-charity/fmh-backend" target="_blank">https://github.com/fmh-charity/fmh-backend</a> 
   <h3 align="center">Examples of my projects : 
