@@ -21,8 +21,6 @@
 <br>
 <h3 align="center">My Leetcode profile :</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=0202-D&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0202-D&theme=solarized_dark)
 
 <h3 align="center">I am actively involved in this project - <a href="https://github.com/fmh-charity/fmh-backend" target="_blank">https://github.com/fmh-charity/fmh-backend</a> 
